@@ -12,4 +12,4 @@
     点击歌手查看歌手单曲
     点击歌曲播放
 # image
-<img src>
+<img src="https://github.com/yylsj0625/rn_music/blob/master/js/assets/img/img%20(1).png" width="280">  <img src="https://github.com/yylsj0625/rn_music/blob/master/js/assets/img/img%20(2).png" width="280">  <img src="https://github.com/yylsj0625/rn_music/blob/master/js/assets/img/img%20(3).png" width="280">  <img src="https://github.com/yylsj0625/rn_music/blob/master/js/assets/img/img%20(4).png" width="280">  <img src="https://github.com/yylsj0625/rn_music/blob/master/js/assets/img/img%20(5).png" width="280">
