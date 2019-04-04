@@ -1,7 +1,7 @@
 # rn_music
     一个使用react-native 和 react-navigation 写的项目，（功能未全部完成）
 # install
-    npm intall 
+    npm intall （或者 cnpm install）
     react-native run-android
 # 功能
     推荐歌单
